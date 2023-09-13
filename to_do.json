@@ -3,5 +3,6 @@
     "CSGO_COMMANDS": 0,
     "EXPERIMENT_ROLLOUTS": 1,
     "FIX_BLACKJACK": 4,
-    "AKINATOR_FIX": 2
+    "AKINATOR_FIX": 2,
+    "APPLY_FOR_BETA": 2
 }
