@@ -1,5 +1,6 @@
 {
     "BETTER_COMMIT_MESSAGES": true,
     "ENHANCED_HELP_COMMAND": true,
-    "APPLY_FOR_BETA": true
+    "APPLY_FOR_BETA": true,
+    "TOGGLE_SECURITY_COMMAND": true,
 }
